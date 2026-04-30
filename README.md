@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Esju-Klukka - Time Tracking App
 
 A React Native mobile app for employee time tracking with employee and manager interfaces.
@@ -93,3 +94,7 @@ repos/
 - App supports both iOS and Android
 - Manager interface doesn't require login (accessible to anyone with app access)
 - Consider adding authentication later for production use
+=======
+# esju-klukka
+Clock in clock out project
+>>>>>>> e76cde8723c4a719662ccf422ee15fa9104e9817
