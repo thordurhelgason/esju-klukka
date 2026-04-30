@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Esju-Klukka",
+    "slug": "esju-klukka",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.esju.klukka"
+    }
+  }
+}
